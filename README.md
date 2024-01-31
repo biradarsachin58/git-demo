@@ -1,3 +1,4 @@
 # git-demo
 practicing git commands
-Author - Sachin Biradar
+<br>
+Author - (Sachin Biradar)
